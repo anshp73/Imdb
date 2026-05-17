@@ -72,6 +72,3 @@ Output:
 Predicted IMDb Score: 7.8
 ```
 
----
-
-Would you like me to also add a **sample requirements.txt** file content (with exact versions of packages) so users can install dependencies without issues?
