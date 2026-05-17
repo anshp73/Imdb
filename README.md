@@ -1,7 +1,3 @@
-Here’s a polished **README draft** you can use for your IMDb Score Predictor project. It explains the algorithm, installation, usage, and dependencies clearly:
-
----
-
 # 🎬 IMDb Score Predictor
 
 A machine learning project that predicts IMDb movie ratings based on features such as genre, director, cast, and other metadata. This tool helps analyze movie attributes and estimate their potential IMDb score.
